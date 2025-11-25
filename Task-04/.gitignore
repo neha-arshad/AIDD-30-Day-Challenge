@@ -1,0 +1,59 @@
+# --------------------------
+# Python Environment Files
+# --------------------------
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------------
+# Environment Variables
+# --------------------------
+.env
+*.key
+secrets.json
+
+# --------------------------
+# Streamlit Cache
+# --------------------------
+.streamlit/
+.streamlit/cache/
+.streamlit/secrets.toml
+
+# --------------------------
+# Editor + System Files
+# --------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# --------------------------
+# Build / Export Outputs
+# --------------------------
+outputs/
+export/
+*.pdf
+*.docx
+
+# --------------------------
+# Dependency Artifacts
+# --------------------------
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# --------------------------
+# Gemini / OpenAgents Related
+# --------------------------
+*/tmp/
+.cache/
+
+# --------------------------
+# Project Created Files
+# --------------------------
