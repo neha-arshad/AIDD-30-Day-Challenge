@@ -10,7 +10,7 @@ This eliminates guesswork and syntax errors while building the **PDF Study Notes
 **Alhamdulillah — Full App Built, Tested & Deployed Live!**
 
 **Live Demo**  
-https://aidd-task4-generate-summary-quiz.streamlit.app/
+https://aiddaidd-task4-generate-summary-quiz.streamlit.app/
 
 ---
 
@@ -19,41 +19,21 @@ https://aidd-task4-generate-summary-quiz.streamlit.app/
   ![MCP Connection](screenshots/mcp_connect.png)
 
 - **Generate Summary** → Done  
-  ![Generating Summary](screenshots/generating_summary.png)
+  ![Generating Summary](screenshots/summary.png)
 
-- **Generate Quiz** → Done  
-  ![Generate Quiz](screenshots/generate_quiz.png)
+- 
 
-- **Summary Generated** → Done  
-  ![Generated Summary](screenshots/generated_summary.png)
+-
 
 - **Quiz Submitted & Checked** → Done  
-  ![Quiz Completed](screenshots/submit_and_check_quiz.png)
+  ![Quiz Completed](screenshots/submit-quiz.png)
 
 - **Full App Deployed on Streamlit Cloud** → Done  
-  Live Link: https://aidd-task4-generate-summary-quiz.streamlit.app/
+  Live Link: http://localhost:8501/
 
 ---
 
-## Project Structure
 
-```
-├── README.md
-├── GEMINI.md
-├── tools.py
-├── agent.py
-├── app.py
-├── .env
-├── pyproject.toml
-└── screenshots/
-├── mcp_connect.png
-├── summary_ui.png
-├── generated_summary.png
-├── quiz_ui.png
-└── submit_and_check_quiz.png
-```
-
----
 
 ## Task Status
 **Task 4 → Alhamdulillah Completed & Live Deployed**
@@ -61,5 +41,5 @@ https://aidd-task4-generate-summary-quiz.streamlit.app/
 ---
 
 ## References
-- **Live App** → https://aidd-task4-generate-summary-quiz.streamlit.app/  
+- **Live App** → http://localhost:8501/
 - **Context7 Official** → [https://context7.com](https://context7.com)  

@@ -1,3 +1,10 @@
+readme.md or gemini.md ye file ki instructions wording change krwa lo gpt se then submit krdo pushh kr k github me okay 
+
+
+
+
+
+
 # Project Specification 
 
 **Role**: Senior Python AI Engineer  
